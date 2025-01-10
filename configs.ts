@@ -1,14 +1,10 @@
 const configs = {
-  husbandName: "Đình Đạt",
-  wifeName: "Hải Yến",
-  husbandBankNumber: "02191205301",
-  wifeBankNumber: "2206200068999",
-  husbandBankName: "NGUYEN DINH DAT",
-  wifeBankName: "PHUNG THI HAI YEN",
-  address_husband: "Thôn Cánh Chủ, Xã Bình Yên, Huyện Thạch Thất, Hà Nội",
-  address_wife: "Thôn 5, Xã Hạ Bằng, Huyện Thạch Thất, Hà Nội",
-  time_wedding: "2024-11-10T12:00:00",
-  txtTimeWedding: "Chủ nhật ngày 10 tháng 11 năm 2024",
+  husbandName: "Phạm Hưởng",
+  wifeName: "Thu Hiền",
+  address_husband: "Thôn An Lạc 3, xã An Vinh, Huyện Quỳnh Phụ, Thái Bình",
+  address_wife: "Thôn Tô Xuyên, Xã An Mỹ, Huyện Quỳnh Phụ, Thái Bình",
+  time_wedding: "2025-01-18T11:00:00",
+  txtTimeWedding: "Chủ nhật ngày 19 tháng 01 năm 2025",
 };
 
 export default configs;

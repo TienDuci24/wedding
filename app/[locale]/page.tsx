@@ -1,4 +1,3 @@
-import BankAccount from "@/components/weddingTemplate/v1/BankAccount";
 import Banner from "@/components/weddingTemplate/v1/Banner";
 import Foreword from "@/components/weddingTemplate/v1/Foreword";
 import Memory from "@/components/weddingTemplate/v1/Memory";
@@ -15,7 +14,7 @@ export default async function Home() {
   return (
     <div className="flex flex-col items-center justify-center">
       <head>
-        <meta property="og:image" content="/assets/banner.jpeg" />
+        <meta content="/assets/anh1.jpg" />
         <meta property="og:image:height" content="600" />
         <meta property="og:image:width" content="800" />
       </head>
@@ -26,7 +25,6 @@ export default async function Home() {
       <WeddingEvent />
       {/* <Timeline /> */}
       <Memory />
-      <BankAccount />
       {/* <AttendForm /> */}
       <MusicPlayer />
 

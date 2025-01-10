@@ -7,15 +7,15 @@ export default function Memory() {
   const [currentImage, setCurrentImage] = useState<string>("");
 
   const images = [
-    "/assets/img10.jpeg",
-    "/assets/img13.jpeg",
-    "/assets/img2.jpeg",
-    "/assets/img3.jpeg",
-    "/assets/img4.jpeg",
-    "/assets/img5.jpeg",
-    "/assets/img8.jpeg",
-    "/assets/img9.jpeg",
-    "/assets/img15.jpeg",
+    "/assets/anh1.jpg",
+    "/assets/anh2.jpg",
+    "/assets/anh3.jpg",
+    "/assets/anh4.jpg",
+    "/assets/anh5.jpg",
+    "/assets/anh6.jpg",
+    "/assets/anh3.jpg",
+    "/assets/anh2.jpg",
+    "/assets/anh1.jpg",
   ];
 
   const handleImageClick = (src: string) => {

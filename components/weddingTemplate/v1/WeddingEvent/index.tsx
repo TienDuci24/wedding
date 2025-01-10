@@ -16,7 +16,7 @@ export default function WeddingEvent() {
 
         <div className="relative hidden h-full lg:block lg:w-[45%]">
           <Image
-            src="/assets/img7.jpeg"
+            src="/assets/bannerhuong.jpg"
             alt=""
             fill
             style={{ objectFit: "cover" }}
@@ -41,7 +41,7 @@ export default function WeddingEvent() {
                   THỜI GIAN
                 </div>
                 <div className="text-sm font-semibold leading-relaxed text-red-800">
-                  <p>12:00</p>
+                  <p>11:00</p>
                   <p>{configs.txtTimeWedding}</p>
                 </div>
               </div>
@@ -72,7 +72,7 @@ export default function WeddingEvent() {
                   THỜI GIAN
                 </div>
                 <div className="text-sm font-semibold leading-relaxed text-red-800">
-                  <p>12:00</p>
+                  <p>11:00</p>
                   <p>{configs.txtTimeWedding}</p>
                 </div>
               </div>

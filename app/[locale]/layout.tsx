@@ -9,20 +9,20 @@ import { Metadata } from "next";
 import "../globals.css";
 
 export const metadata: Metadata = {
-  title: "Đình Đạt - Hải Yến",
+  title: "Phạm Hưởng - Thu Hiền",
   themeColor: "#FFF",
-  description: "Lễ thành hôn của Đình Đạt và Hải Yến",
-  metadataBase: new URL("https://datyen.vercel.app/"),
+  description: "Lễ thành hôn của Phạm Hưởng và Thu Hiền",
+  // metadataBase: new URL("https://datyen.vercel.app/"),
   openGraph: {
     type: "website",
-    siteName: "Đình Đạt - Hải Yến",
-    url: "https://datyen.vercel.app/",
-    images: "https://datyen.vercel.app/assets/base.jpg",
+    siteName: "Phạm Hưởng - Thu Hiền",
+    // url: "https://datyen.vercel.app/",
+    // images: "https://datyen.vercel.app/assets/base.jpg",
   },
   twitter: {
     site: "@site",
-    title: "Đình Đạt - Hải Yến",
-    description: "Lễ thành hôn của Đình Đạt và Hải Yến",
+    title: "Phạm Hưởng - Thu Hiền",
+    description: "Lễ thành hôn của Phạm Hưởng và Thu Hiền",
   },
 };
 
