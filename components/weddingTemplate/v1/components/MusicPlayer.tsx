@@ -17,7 +17,7 @@ const MusicPlayer: React.FC = () => {
 
   return (
     <div className={"fixed bottom-12 left-8 z-20 bg-transparent"}>
-      <audio ref={audioRef} src="/assets/audio/cuoinhaudi.mp3" />
+      <audio ref={audioRef} src="/assets/audio/EmDongY.mp3" />
       <button
         onClick={() => {
           setPlay(!isPlay);
