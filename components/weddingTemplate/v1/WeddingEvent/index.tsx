@@ -43,6 +43,7 @@ export default function WeddingEvent() {
                 <div className="text-sm font-semibold leading-relaxed text-red-800">
                   <p>11:00</p>
                   <p>{configs.txtTimeWedding}</p>
+                  <p>{configs.amLich}</p>
                 </div>
               </div>
 
@@ -74,6 +75,7 @@ export default function WeddingEvent() {
                 <div className="text-sm font-semibold leading-relaxed text-red-800">
                   <p>11:00</p>
                   <p>{configs.txtTimeWedding}</p>
+                  <p>{configs.amLich}</p>
                 </div>
               </div>
 

@@ -15,8 +15,8 @@ export default function Foreword() {
         </p>
         <p className="animate-box mb-5 text-lg leading-loose text-gray">
           {configs.husbandName} và {configs.wifeName} xin thân mời toàn thể anh
-          chị em và các bạn tới dự bữa tiệc thân mật mừng lễ thành hôn của chúng
-          mình
+          chị em và các bạn tới dự bữa cơm thân mật mừng lễ thành hôn của chúng
+          mình vào hồi 08h ngày 19/01 (dương lịch) - tức 20/12 Âm lịch
         </p>
         <p className="animate-box text-lg leading-loose text-gray">
           Đây cũng là dịp chúng mình gửi lời cảm ơn đến tất cả anh chị em và bạn
